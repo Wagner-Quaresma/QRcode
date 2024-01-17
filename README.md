@@ -18,20 +18,6 @@ foi utilizado para esta aplicação somente HTML e CSS
 - Caixa flexível
 - Grade CSS
 
-Para ver como você pode adicionar trechos de código, veja abaixo:
-
-<corpo>
-   <div id="wripper">
-     <div id="contêiner">
-       <div id="area-image">
-         <img src="/images/image-qr-code.png" />
-     </div>
-     <div id="descrição">
-       <h2>Melhore suas habilidades de front-end criando projetos</h2>
-       <p>Leia o código QR para visitar o Frontend Mentor e leve suas habilidades de codificação para o próximo nível</p>
-     </div>
-   </div>
-
 ## Autor
 
 - Mentor Frontend - [@Wagner-Quaresma](https://www.frontendmentor.io/profile/Wagner-Quaresma)
