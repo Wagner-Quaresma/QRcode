@@ -70,8 +70,7 @@ p{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 70px;
-  background-color: hsl(212, 45%, 89%);
+ 
 }
 
 @media (min-width:360px) and (max-width:667px){
