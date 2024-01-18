@@ -26,6 +26,7 @@ body{
   background-color: hsl(0, 0%, 100%);
   padding: 15px;
   border-radius: 20px;
+  margin-bottom: 70px;
   
 }
 
@@ -70,7 +71,7 @@ footer{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 90px;
+  
 }
 
 @media (min-width:360px) and (max-width:667px){
