@@ -65,12 +65,12 @@ p{
   color: hsl(220, 15%, 55%);
 }
 
-.attribution{
+footer{
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
- 
+  margin-top: 70px;
 }
 
 @media (min-width:360px) and (max-width:667px){
